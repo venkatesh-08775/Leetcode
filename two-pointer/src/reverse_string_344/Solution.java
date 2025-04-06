@@ -1,4 +1,4 @@
-package reverse_string;
+package reverse_string_344;
 
 import java.util.Arrays;
 
